@@ -1,0 +1,97 @@
+
+
+
+  .contactContainer {
+    background: white;
+    max-width: 1000px;
+    height: auto;
+    width: 100%;
+    z-index: 1;
+    display: grid;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 80px 32px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+    padding-bottom: 50px;
+    color: black;
+  }
+  
+  .contactContainer #inputCreateContact {
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+
+  .contactContainer #inputCreateContactBig {
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 15px;
+  }
+  
+  .contactContainer button {
+    background-color: transparent;
+  color: black;
+  padding: 15px 20px;
+  border: 2px solid var(black);
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+  font-size: 15px;
+  margin-top: 10px;
+
+
+  }
+  
+  .contactContainer button:hover {
+    transition: all 0.3s ease-out;
+  background: #242424;
+  color: white;
+  transition: 250ms;
+  }
+  
+  .contact-sub {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    margin-bottom: 24px;
+    color: black;
+  }
+  
+  .contact-sub > p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .contact-sub-heading {
+    margin-bottom: 24px;
+    font-size: 24px;
+    color: #254b7c
+  }
+  
+  .contact-sub-text {
+    font-size: 20px;
+  }
+  
+  .contact-input {
+    padding: 8px 20px;
+    border-radius: 2px;
+    margin-right: 10px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border: 1px solid #fff;
+  }
+  
+ 

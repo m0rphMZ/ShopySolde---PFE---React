@@ -1,0 +1,45 @@
+.BigContainer {
+    min-height: 800px;
+    height: 70vh;
+    padding: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    align-items: center;
+    object-fit: contain;
+    background-position: center;
+    background-size: cover;
+    background: rgb(36,36,36);
+}
+
+.BigContainer > h1 {
+  color: #fff;
+  font-size: 80px;
+}
+
+.BigContainer> p {
+  margin-top: 8px;
+  margin-bottom: 40px;
+  color: #fff;
+  font-size: 32px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand svg {
+  width: 100%;
+  font-size: 220px;
+  color: white;
+}
+

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Express-App-PFE/static/css/main.3c0620cc.chunk.css",
+    "main.js": "/React-Express-App-PFE/static/js/main.6e360408.chunk.js",
+    "main.js.map": "/React-Express-App-PFE/static/js/main.6e360408.chunk.js.map",
+    "runtime-main.js": "/React-Express-App-PFE/static/js/runtime-main.99d0bf94.js",
+    "runtime-main.js.map": "/React-Express-App-PFE/static/js/runtime-main.99d0bf94.js.map",
+    "static/js/2.0d268659.chunk.js": "/React-Express-App-PFE/static/js/2.0d268659.chunk.js",
+    "static/js/2.0d268659.chunk.js.map": "/React-Express-App-PFE/static/js/2.0d268659.chunk.js.map",
+    "index.html": "/React-Express-App-PFE/index.html",
+    "static/css/main.3c0620cc.chunk.css.map": "/React-Express-App-PFE/static/css/main.3c0620cc.chunk.css.map",
+    "static/js/2.0d268659.chunk.js.LICENSE.txt": "/React-Express-App-PFE/static/js/2.0d268659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d0bf94.js",
+    "static/js/2.0d268659.chunk.js",
+    "static/css/main.3c0620cc.chunk.css",
+    "static/js/main.6e360408.chunk.js"
+  ]
+}
